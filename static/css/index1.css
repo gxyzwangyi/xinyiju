@@ -1,0 +1,78 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,span,ul,li,h1,p{ margin:0; padding:0;}
+h1{ font-weight:normal;}
+.center{ margin:0 auto;}
+
+
+#conntain{ width:1002px; height:auto; margin:0 auto;}
+.floatleft{ float:left;}
+.floatright{ float:right;}
+/* 标题 */
+.font_lan{ color:#0d234f; font-family:"微软雅黑","黑体"; font-size:20px; letter-spacing:2px;}
+.font_English{ color:#0d234f; font-family:Arial; font-size:14px; margin-left:10px;}
+/* 二级页标题 */
+.f_yh14{ font-size:14px; font-family: "微软雅黑"; display:block; }
+/* 正文 */
+.font_hui_12{ font-family:"Arial","宋体"; font-size:12px; color:#646464; text-align:left;}
+.font_hui_14{ font-family: "Arial", "宋体"; font-size:14px; color:#646464;   text-align:left;}
+.font_bai_12{ font-family:"Arial","宋体"; font-size:12px; color:#fff; text-align:justify;}
+.font_bai_14{ font-family: "Arial", "宋体"; font-size:14px; color:#fff;   text-align:justify;}
+/* 有背景颜色时正文字体颜色 */
+.font_shenhui{ color:#292929;}
+/* 标题下border */
+.bordersolid{ border-bottom:solid 1px #d2d2d2; padding-bottom:5px;}
+/* 虚线、竖向版块之间border */
+.borderdashed{ border-bottom:dashed 1px #d2d2d2;}
+/* 横向分栏宽度 */
+.width304{ width:304px;}
+/* 横向分栏宽度2 */
+.width653{ width:653px;}
+/* 横向分栏之间距离 */
+.marginright45{ margin-right:45px;}
+/* 更多 */
+.more{ font-family:"宋体";  font-size:12px; color:#F00; text-decoration:none;}
+.more:hover{ text-decoration:underline; color:#C00;}
+
+
+
+.lan{width:auto; background-color:#B00058;}
+.shenlan{width:auto; background-color:#0d234f;}
+
+
+.fontfamily{font-family:Arial;}
+.fontweight{ font-weight:bold;}
+.fontsize14{ font-size:14px;}
+.fontsize12{ font-size:12px;}
+
+
+.margin10{ margin:10px;}
+.margin19{ margin:0 19px;}
+.margintop22{ margin-top:22px; }
+.margintop20{ margin-top:20px;}
+.margintop10{ margin-top:10px;}
+.margintop15{ margin-top:15px;}
+.margintop27{margin-top:27px;}
+.margintop30{ margin-top:30px;}
+.margintop35{ margin-top:35px;}
+.margintop50{ margin-top:50px;}
+.margintop100{ margin-top:100px;}
+.marginleft2{ margin-left:2px;}
+.marginleft22{ margin-left:22px;}
+.marginleft35{ margin-left:35px;}
+.marginleft41{ margin-left:41px;}
+.marginleft44{ margin-left:44px;}
+.marginleft65{ margin-left:65px;}
+.marginbottom22{ margin-bottom:22px;}
+.marginbottom5{ margin-bottom:5px;}
+.marginbottom10{ margin-bottom:10px;}
+.marginright10{ margin-right:10px;}
+
+
+
+.display{ display:block;}
+.clear{ clear:both;}
+
+
+

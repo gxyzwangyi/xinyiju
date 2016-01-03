@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+
+#foot{ width:auto; height:160px;}
+#foot .lan{ height:150px;}
+#foot .message{ width:1002px; height:150px; margin:0 auto;}
+.left_foot{ width:380px; height:150px;}
+.right_foot{ width:482px; margin-left:140px; height:150px; color:#e5e5e5;}
+.foot_text{margin-top:27px; font-size:36px; color:#CCC; font-family:"黑体"}
+.foot_text1{ margin-left:5px; margin-top:19px; font-family:"宋体"; font-size:14px;}
+.foot_text1 a{ color:#e5e5e5; text-decoration:none;}
+.foot_text1 a:hover{ color:#e5e5e5; text-decoration: underline;}
+.foot_text2{margin-left:5px; margin-top:18px; font-family: Arial, Helvetica, sans-serif; font-size:12px;}
+
+
+
+#foot .shenlan{ height:10px;}

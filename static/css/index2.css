@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 二级总内容 */
+#conntain .neirong1{ width:1002px; height:auto; margin:16px auto 50px;}
+
+
+/* 段落间距 */
+.duanluo p{ margin-bottom:15px; line-height:2em; text-indent:2em;}
+.duanluo2 p{ line-height:2em; text-indent:2em;}
+.duanluo3 p{ margin-bottom:15px; line-height:2em;}
+.banner1{
+	width:1002px;
+	height:auto;
+	float:left;
+}
+
+/* 二级导航 */
+.daohang_2{ float:left; width:167px; height:auto;}
+.daohang_title{height:34px; width:167px;}
+.daohang_title a{height:34px; width:167px; line-height:34px; border-bottom:solid 1px #d2d2d2; display:block; color:#646464; text-decoration:none; cursor:pointer; }
+.daohang_title a:hover{ color:#FFFFFF; height:34px; border-bottom:solid 1px #0d234f; background-color:#A80054;}
+.daohang_2 .daohang_title .current,.daohang_2 .daohang_title2 .current{color:#FFFFFF; height:34px; background-color:#A80054; border-bottom:solid 1px #A80054;}
+/* 二级导航最后一个标题 */
+.daohang_title2{height:34px; width:167px;}
+.daohang_title2 a{height:34px; width:167px; line-height:34px;  display:block; color:#646464; text-decoration:none; cursor:pointer; }
+.daohang_title2 a:hover{ color:#FFFFFF; height:35px; background-color:#A80054; border:none;}
+
+.jiantou{ width:22px; height:14px; float:left; margin-top:10px;}
+.daohang_xuanzhong{ color:#FFFFFF; height:34px; border-bottom:solid 1px #A80054; background-color:#A80054;}
+
+/* 二级右侧 */
+.wenzikuang{
+	float:left;
+	width:730px;
+	height:auto;
+	margin-left:105px;
+}
+.marginbottom65{
+	margin-bottom:65px;
+}
+.marginbottom80{
+	margin-bottom:80px;
+}
+.marginbottom100{
+	margin-bottom:100px;
+}
+/* 列表标题 */
+.liebiao_title{
+	float:left;
+	line-height:35px;
+	width: auto;
+	border-bottom:#d2d2d2  1px  dashed;
+}
+.height34{ height:34px;}
+.bordernone{ border:none;}
+
+/* 列表标题内容 */
+.wenzi_001,.wenzi_0011{
+
+	width: 322px;
+	height:34px;
+	float:left;
+	
+}
+.wenzi_001 a,.wenzi_0011 a{
+	color:#646464; text-decoration: none;
+}
+.wenzi_001 a:hover,.wenzi_0011 a:hover{
+	color:#008094; text-decoration: none;
+}
+.wenzi_001{ width:368px;}
+.wenzi_002{
+	width:85px;
+	height:34px;
+	float:left;
+	text-align:right;
+	margin-left:166px;
+	display:block;
+}
+.wenzi_002 a{
+	color:#646464; text-decoration: none;
+}
+.wenzi_002 a:hover{
+	color:#008094; text-decoration: none;
+}
+.wenzi_003{ width:7px;  height:7px;  float:left; margin-left:7px; margin-right:7px;margin-top:14px;background:url(../images/sanjiao.png) no-repeat; display:block; }
+
+.wenzi_005{
+	width:368px;
+	height:34px;
+	float:left;
+	margin-left:21px;
+	font-weight:bold;}
+.wenzi_005 a{color:#0d234f;text-decoration: none;}
+.wenzi_005 a:hover{color:#008094; text-decoration: none;}
+/* 照片说明文字 */
+.wenzi_0003{ width:220px; height:35px; line-height:36px; float:left; text-align:center;}
+.wenzi_0003 a{
+	color:#646464;text-decoration: none;
+}
+.wenzi_0003 a:hover{
+	color:#008094;text-decoration: none;}
+
+
+/* 团队风采新闻中心右侧 */
+.block01,.block02{ width:730px; height:auto;}
+.block01{ margin-bottom:80px;}
+.tuwen{ height:281px;}
+.tuwen .zhaiyao{ width:350px; height:281px; margin-left:42px;}
+.tuwen .zhaiyao .title{ height:35px; line-height:35px; border-bottom:dashed 1px #d2d2d2; margin-bottom:20px;}
+.tuwen .zhaiyao .title a{ font-weight:bold; font-family:Arial, "宋体"; font-size:16px; color:#008094; text-decoration:none;}
+.tuwen .zhaiyao .title a:hover{ text-decoration:underline;}
+.tuwen .zhaiyao .title img{ margin-top:8px;}
+.img_border{ padding:9px; border:solid 1px #d2d2d2;}
+.img_border7{ padding:7px; border:solid 1px #d2d2d2;}
+.wen_liebiao{ width:auto; height:auto; margin-top:30px;}
+/* 企业之星 */
+.picture_text{ width:140px; height:35px; line-height:35px; text-align:center;}
+.picture_text a{ text-decoration:none;}
+.picture_text a:hover{color:#008094;text-decoration: none;}
+/* 品味生活 */
+.tuwen2{ height:136px;}
+.tuwen2 .zhaiyao2{ width:147px; height:136px; margin-left:20px;}
+/* 精彩瞬间 */
+.jingcaitu{ height:166px;}
+
+
+/* 加入我们 */
+.tuwen3{ height: auto;}
+.wenzi_tigong{ width:368px;
+	height:34px;
+	float:left;
+	margin-left:21px;
+	font-weight:bold;}
+/* 企业网站链接 */
+.wzlink{ color:#008094; text-decoration:none;}
+.wzlink:hover{ text-decoration:underline;}
+
+
+.width117{ width:117px;}
+.width220{ width:220px;}

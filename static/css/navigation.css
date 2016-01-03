@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+#navigation{ width:auto; height:auto;}
+#navigation .lan{ height:2px; }
+#navigation .hui{ height:98px; background: url(../images/index2_02.jpg) repeat-x; width:auto;}
+#navigation .content{ width:1002px; margin:0 auto; height:98px;}
+#navigation .content .logo{ width:214px; height:38px; margin-top:30px;}
+#navigation .content .slogan{ width:170px; height:41px; background:url(../images/index2-q_10.png) no-repeat; margin:30px 0px auto 30px;}
+#navigation .content .sign{ width:28px; height:28px; background:url(../images/index2-q_04.png) no-repeat;}
+#navigation .content .phone{ width:191px; height:45px; margin-top:25px; background:url(../images/index2-q_08.png) no-repeat; margin-right:-18px;}
+#navigation .nav{ height: auto; width:auto; background-color:#B00058;}
+#navigation .nav .navv{ width:1002px; height:50px; margin:0 auto;}
+#navigation .nav .navv ul{ list-style:none; font-family:"微软雅黑", "宋体"; font-size:16px; }
+#navigation .nav .navv ul li{ display:block; margin-right:5px; float:left; width:100px; height:50px; position:relative; z-index:50;}
+#navigation .nav .navv ul li a{ display:block; line-height:50px; text-align:center; color:#fff; background-color:#B00058; text-decoration:none;}
+#navigation .nav .navv ul li a:hover{ background-color:#F9007C;}
+#navigation .nav .navv .current{ background-color:#B00058;}
+#navigation .nav .navv .down_menu{ position:absolute; width:152px; height:auto; z-index:50;}
+#navigation .nav .navv .down_menu .down_menu_head{background:url(../images/index2-q_22.png) 0px 0px no-repeat; height:20px; display:block; width:152px;}
+#navigation .nav .navv .down_menu .down_menu_foot{background:url(../images/index2-q_22.png) 0px -90px no-repeat; height:12px; display:block; width:152px;}
+#navigation .nav .navv .down_menu a{ display:block; width:134px; height:35px; background:url(../images/index2-q_22.png) 0px -55px no-repeat; line-height:35px; font-size:14px; text-align:left; padding-left:18px;}
+#navigation .nav .navv .down_menu a:hover{ background:url(../images/index2-q_22.png) 0px -20px no-repeat;}
+#navigation .nav .navv .down_menu .current{background:url(../images/index2-q_22.png) 0px -20px no-repeat;}
+#navigation .nav .shenlan{ height:2px;}
+#navigation .nav .shadow1{ width:auto; height:1px; background-color:#cbcbcb;}
+#navigation .nav .shadow2{ width:auto; height:1px; background-color:#e3e3e3;}

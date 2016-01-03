@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+#conntain .banner{ width:1002px; height:374px; margin:16px auto 50px;}
+#conntain .banner_1{ width:1002px; height:350px;}
+#conntain .banner_2{ width:240px; height:24px; margin:0 auto;}
+#conntain .banner_2 a{ display: block; width:40px; height:6px; background-color:#bababa; margin-top:18px; float:left;}
+#conntain .banner_2 a:hover{ background-color:#008094;}
+#conntain .banner_2 .current{ background-color:#008094;}
+
+.ad {
+    text-align: center;
+    height: 400px;
+    overflow: hidden;
+    width: 1002px;
+    margin: 0 auto;
+}
+#conntain .work{ width:1002px; height:auto; margin:0 auto;}
+#conntain .work01{ width:1002px; height:319px; padding-bottom:40px;}
+#conntain .work02{ width:1002px; height:431px; padding-bottom:40px;}
+#conntain .work03{width:1002px; height:100px; padding:40px 0px;}
+#conntain .work .left01,#conntain .work .right01{ height:319px;}
+#conntain .work .left02,#conntain .work .center02,#conntain .work .right02{ height:391px; margin-top:40px;}
+#conntain .work .work02_text{ height:345px; margin-top:16px; background-color:#eee;}
+.erweima{ position:absolute; z-index:10; width:302px; height:165px; border:solid 1px #3ab6c9; border-bottom:none; bottom:100px; background-color:#fff;}
+.erweima_left{ width:120px; height:120px; margin-top:22px; margin-left:28px; background: url(../images/index22_03.gif) no-repeat;}
+.erweima_zi{ width:125px; height:120px; margin-top:22px; margin-left:18px;}
+
+.position{ position:relative; z-index:10;}
+.lineheight18{ line-height:1.8em; text-indent:2em;}
